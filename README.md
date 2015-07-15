@@ -1,6 +1,11 @@
 # Scouty-Web
 A website for storing data and scouting information about other teams
 
+### General Info
+
+#### What is this website and how will it work?
+This website is used by FRC Team 3182 (Athena's Warriors) to store information about teams and alliances, so that the team can make informed decisions about which alliances to go with. You will be able to enter info about teams either via the website or via the Scouty mobile app, and this data will be accessable to everyone on the team. More details are still be sorted out. 
+
 ### Technical Info
 
 #### How does this work?
